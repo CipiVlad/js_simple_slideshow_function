@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: rgb(102, 76, 122);
+
+}
+
+body {
+    text-align: center;
+    margin: 25vh;
+}
+
+div img {
+    border-radius: 20%;
+
+}
